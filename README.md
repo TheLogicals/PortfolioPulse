@@ -34,7 +34,6 @@ Portfolio Tracker App is an Android application built using Jetpack Compose. It 
 - [Kotlin](https://kotlinlang.org/)
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Retrofit](https://square.github.io/retrofit/) for network requests
-- [Room](https://developer.android.com/training/data-storage/room) for local database
 - [MVVM Architecture](https://developer.android.com/jetpack/guide)
 - [Hilt for Dependency Injection](https://developer.android.com/training/dependency-injection/hilt-android)
 - [Android ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
