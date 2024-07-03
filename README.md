@@ -20,8 +20,8 @@ Portfolio Tracker App is an Android application built using Jetpack Compose. It 
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/currency-converter.git
-    cd currency-converter
+    git clone https://github.com/TheLogicals/PortfolioPulse.git
+    cd PortfolioPulse
     ```
 
 2. **Open the project in Android Studio**
